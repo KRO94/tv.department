@@ -1,0 +1,44 @@
+[
+    {
+        "program_id": 1,
+        "rating": 8,
+        "p_duration": 90,
+        "day": "Monday"
+    },
+    {
+        "program_id":2,
+        "rating": 10,
+        "p_duration": 120,
+        "day": "Sunday"
+    },
+    {
+        "program_id": 3,
+        "rating": 6,
+        "p_duration": 56,
+        "day": "Wednesday"
+    },
+    {
+        "program_id":4,
+        "rating": 9,
+        "p_duration": 140,
+        "day": "Thursday"
+    },
+    {
+        "program_id":5,
+        "rating": 5,
+        "p_duration": 76,
+        "day": "Friday"
+    },
+        {
+        "program_id": 6,
+        "rating": 4,
+        "p_duration": 90,
+        "day": "Saturday"
+    },
+    {
+        "program_id":7,
+        "rating": 7,
+        "p_duration": 120,
+        "day": "Tuesday"
+    }
+]

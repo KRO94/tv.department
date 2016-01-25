@@ -1,0 +1,74 @@
+[
+	{
+		"clients_id" : 1,
+		"company_name" : "Detergent",
+		"c_name" : "Maxim",
+		"c_surname" : "Sedenko",
+		"telephone_number" : "0974587523",
+		"promotional_product" : "Soap",
+		"card_number" : 1234567891234567
+	},
+	{
+		"clients_id" : 2,
+		"company_name" : "Dairy company",
+		"c_name" : "Misha",
+		"c_surname" : "Vantukh",
+		"telephone_number" : "0465465464",
+		"promotional_product" : "Milk",
+		"card_number" : 5454548879879842
+	},
+	{
+		"clients_id" : 3,
+		"company_name" : "Footwear",
+		"c_name" : "Mirosya",
+		"c_surname" : "Grabovich",
+		"telephone_number" : "0456456465",
+		"promotional_product" : "Boots",
+		"card_number" : 9879879879879871
+	},
+	{
+		"clients_id" : 4,
+		"company_name" : "Shoes",
+		"c_name" : "Lesya",
+		"c_surname" : "Soloviy",
+		"telephone_number" : "0456548621",
+		"promotional_product" : "Sneakers",
+		"card_number" : 5678956789456789
+	},
+	{
+		"clients_id" : 5,
+		"company_name" : "Sandals",
+		"c_name" : "Ruslan",
+		"c_surname": "Tsisar",
+		"telephone_number" : "0632569877",
+		"promotional_product" : "Avarca",
+		"card_number" : 4564546548798784
+	},
+	{
+		"clients_id" : 6,
+		"company_name" : "Limo",
+		"c_name" : "Lyubomir",
+		"c_surname" : "Romashevsky",
+		"telephone_number" : "0465446545",
+		"promotional_product" : "Ice cream",
+		"card_number" : 4564678912344321
+	},
+	{
+		"clients_id" : 7,
+		"company_name" : "Underwear",
+		"c_name" : "Ivanna",
+		"c_surname" : "Popovich",
+		"telephone_number" : "0456487987",
+		"promotional_product" : "Panties",
+		"card_number" : 4657895621245788
+	},
+	{
+		"clients_id" : 8,
+		"company_name" : "PARFUMS",
+		"c_name" : "Roma",
+		"c_surname" : "Reshetivska",
+		"telephone_number" : "0456541862",
+		"promotional_product" : "perfume",
+		"card_number" : 5678956789456999
+	}
+]

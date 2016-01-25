@@ -1,0 +1,62 @@
+[
+{
+	"a_id": 1,
+	"c_id": 2,
+	"p_duration": 45,
+	"p_id": 7
+},
+{
+	"a_id": 2,
+	"c_id": 4,
+	"p_duration": 38,
+	"p_id": 5
+},
+{
+	"a_id": 3,
+	"c_id": 6,
+	"p_duration": 24,
+	"p_id": 3
+},
+{
+	"a_id": 4,
+	"c_id": 8,
+	"p_duration": 34,
+	"p_id": 1
+},
+{
+	"a_id": 5,
+	"c_id": 7,
+	"p_duration": 29,
+	"p_id": 2
+},
+{
+	"a_id": 6,
+	"c_id": 5,
+	"p_duration": 40,
+	"p_id": 4
+},
+{
+	"a_id": 7,
+	"c_id": 3,
+	"p_duration": 36,
+	"p_id": 6
+},
+{
+	"a_id": 8,
+	"c_id": 1,
+	"p_duration": 48,
+	"p_id": 3
+},
+{
+	"a_id": 9,
+	"c_id": 4,
+	"p_duration": 28,
+	"p_id": 6
+},
+{
+	"a_id": 10,
+	"c_id": 6,
+	"p_duration": 47,
+	"p_id": 4
+}
+]
